@@ -1,4 +1,4 @@
-package logica;
+package miPrincipal;
 
 public class Alumno {
   //Atributos
@@ -15,6 +15,7 @@ public class Alumno {
 
   //lleno
   public Alumno(String nombre, int num_control, double promedio, String carrera){
+  }
 
     
 
